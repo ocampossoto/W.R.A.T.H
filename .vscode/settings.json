@@ -13,5 +13,6 @@
   },
   "files.associations": {
     "*.inc": "cpp"
-  }
+  },
+  "github.allowUnsafeSSL": true
 }
